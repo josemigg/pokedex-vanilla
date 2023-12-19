@@ -1,0 +1,23 @@
+body {
+  padding: 20px;
+}
+
+.search {
+  border-radius: 12px;
+  height: 40px;
+  margin-bottom: 36px;
+  max-width: 600px;
+  width: 100%;
+  padding: 0 12px;
+}
+
+.pokemons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 36px;
+  justify-content: space-between;
+}
+
+.pokemon {
+  padding: 12px;
+}
